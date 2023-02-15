@@ -1,4 +1,4 @@
-tkinter
-subprocess
-threading
-tcpdump
+tkinter==8.6
+subprocess==3.6.8
+threading==0.1.1
+tcpdump==4.9.3
